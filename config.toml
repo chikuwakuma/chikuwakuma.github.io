@@ -1,4 +1,4 @@
-baseurl = "https://chikuwakuma.io"
+baseurl = "https://chikuwakuma.github.io"
 title = "ちくわくまの間"
 theme = "pulp"
 canonifyurls = true
