@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ちくわくまの間</title>
+    <link>https://chikuwakuma.github.io/tags/</link>
+    <description>Recent content in Tags on ちくわくまの間</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chikuwakuma.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>css</title>
+      <link>https://chikuwakuma.github.io/tags/css/index.json</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikuwakuma.github.io/tags/css/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://chikuwakuma.github.io/tags/html/index.json</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikuwakuma.github.io/tags/html/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://chikuwakuma.github.io/tags/markdown/index.json</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikuwakuma.github.io/tags/markdown/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://chikuwakuma.github.io/tags/themes/index.json</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikuwakuma.github.io/tags/themes/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://chikuwakuma.github.io/tags/privacy/index.json</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikuwakuma.github.io/tags/privacy/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://chikuwakuma.github.io/tags/shortcodes/index.json</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikuwakuma.github.io/tags/shortcodes/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://chikuwakuma.github.io/tags/text/index.json</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikuwakuma.github.io/tags/text/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://chikuwakuma.github.io/tags/emoji/index.json</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikuwakuma.github.io/tags/emoji/index.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
