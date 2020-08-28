@@ -1,5 +1,5 @@
-baseurl = "https://example.com/"
-title = "Site Title"
+baseurl = "https://chikuwakuma.io"
+title = "ちくわくまの間"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
